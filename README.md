@@ -39,26 +39,6 @@ A Python CLI tool that recommends optimal champion picks based on enemy team com
 
 ---
 
-## Project structure
-
-lol-counter-picker/
-│
-├── main.py
-├── random_wr_generator.py
-│
-├── src/
-│ ├── CLI.py
-│ ├── logic.py
-│ ├── data_loader.py
-│
-├── data/
-│ ├── champions.json
-│ ├── counters.json
-│
-└── README.md
-
----
-
 ## Setup
 
 ### 1. Generate dataset

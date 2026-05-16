@@ -1,0 +1,1164 @@
+{
+  "Aatrox": {
+    "Lee Sin": 46.0,
+    "Veigar": 48.2,
+    "Leona": 48.9,
+    "Renata Glasc": 49.2,
+    "Yone": 49.5
+  },
+  "Ahri": {
+    "Caitlyn": 46.3,
+    "Garen": 45.2,
+    "Viego": 44.7,
+    "Evelynn": 47.0,
+    "Kog'Maw": 47.9
+  },
+  "Akali": {
+    "Wukong": 49.8,
+    "Twitch": 48.2,
+    "Kennen": 47.7,
+    "Jayce": 49.6,
+    "Viego": 45.6
+  },
+  "Akshan": {
+    "Skarner": 49.4,
+    "Caitlyn": 49.2,
+    "Malzahar": 46.2,
+    "Aphelios": 44.3,
+    "Vi": 49.8
+  },
+  "Alistar": {
+    "Katarina": 47.0,
+    "Singed": 44.5,
+    "Pantheon": 44.1,
+    "Garen": 45.7,
+    "Vi": 48.3
+  },
+  "Amumu": {
+    "Milio": 47.5,
+    "Kayle": 49.5,
+    "Tristana": 46.7,
+    "Alistar": 45.9,
+    "Zac": 44.7
+  },
+  "Anivia": {
+    "Kayle": 48.6,
+    "Malphite": 47.4,
+    "Annie": 44.2,
+    "Aurelion Sol": 46.3,
+    "Malzahar": 46.8
+  },
+  "Annie": {
+    "Teemo": 48.0,
+    "Alistar": 45.5,
+    "Varus": 45.6,
+    "Zoe": 44.9,
+    "Gwen": 47.8
+  },
+  "Aphelios": {
+    "Karthus": 49.4,
+    "Cho'Gath": 48.1,
+    "Braum": 45.3,
+    "Dr. Mundo": 46.0,
+    "Nasus": 47.2
+  },
+  "Ashe": {
+    "Yorick": 45.5,
+    "Karthus": 48.0,
+    "Tahm Kench": 44.5,
+    "Jax": 49.0,
+    "Gwen": 49.0
+  },
+  "Aurelion Sol": {
+    "Ornn": 47.5,
+    "Naafiri": 48.2,
+    "Yasuo": 44.7,
+    "Shen": 48.1,
+    "Olaf": 46.5
+  },
+  "Azir": {
+    "Pyke": 49.6,
+    "Naafiri": 45.0,
+    "Diana": 49.0,
+    "Sivir": 44.3,
+    "Taric": 48.0
+  },
+  "Bard": {
+    "Bel'Veth": 47.9,
+    "Singed": 49.2,
+    "Katarina": 47.2,
+    "Blitzcrank": 46.5,
+    "Xin Zhao": 46.9
+  },
+  "Bel'Veth": {
+    "Diana": 45.4,
+    "Udyr": 49.0,
+    "Yorick": 46.4,
+    "Brand": 45.4,
+    "Thresh": 44.1
+  },
+  "Blitzcrank": {
+    "Rell": 44.6,
+    "Lux": 48.2,
+    "Mordekaiser": 46.2,
+    "Fizz": 49.3,
+    "Xin Zhao": 47.1
+  },
+  "Brand": {
+    "Diana": 46.0,
+    "Miss Fortune": 48.4,
+    "Maokai": 45.5,
+    "Aurelion Sol": 48.8,
+    "Renekton": 48.2
+  },
+  "Braum": {
+    "Shen": 47.3,
+    "Jarvan IV": 45.8,
+    "Nautilus": 46.1,
+    "Shyvana": 45.9,
+    "Milio": 48.8
+  },
+  "Briar": {
+    "Shaco": 45.5,
+    "K'Sante": 49.0,
+    "Zed": 48.4,
+    "Malzahar": 45.0,
+    "Corki": 44.8
+  },
+  "Caitlyn": {
+    "Bard": 49.4,
+    "Kassadin": 46.0,
+    "Anivia": 49.2,
+    "Xin Zhao": 47.7,
+    "K'Sante": 46.2
+  },
+  "Camille": {
+    "Fizz": 47.7,
+    "Kai'Sa": 49.5,
+    "Jax": 46.8,
+    "Akali": 44.5,
+    "Nasus": 48.4
+  },
+  "Cassiopeia": {
+    "Yuumi": 44.2,
+    "Yone": 46.6,
+    "Riven": 47.1,
+    "Corki": 44.2,
+    "Illaoi": 48.0
+  },
+  "Cho'Gath": {
+    "Rengar": 49.2,
+    "Milio": 46.3,
+    "Sejuani": 49.6,
+    "Lucian": 46.3,
+    "Gwen": 45.1
+  },
+  "Corki": {
+    "Nocturne": 48.9,
+    "Dr. Mundo": 46.9,
+    "Udyr": 45.3,
+    "Aphelios": 49.7,
+    "Nilah": 45.8
+  },
+  "Darius": {
+    "Trundle": 47.9,
+    "Blitzcrank": 45.2,
+    "Aurelion Sol": 46.7,
+    "Sion": 49.8,
+    "Viktor": 46.1
+  },
+  "Diana": {
+    "Annie": 44.4,
+    "Urgot": 48.8,
+    "Zac": 49.7,
+    "Heimerdinger": 46.6,
+    "Viktor": 49.2
+  },
+  "Draven": {
+    "Miss Fortune": 46.9,
+    "Kassadin": 49.0,
+    "Sivir": 44.6,
+    "Ornn": 46.3,
+    "LeBlanc": 47.5
+  },
+  "Dr. Mundo": {
+    "Kassadin": 49.0,
+    "Anivia": 49.4,
+    "Vladimir": 48.8,
+    "Riven": 46.3,
+    "Camille": 49.5
+  },
+  "Ekko": {
+    "Riven": 49.8,
+    "Ashe": 48.1,
+    "Syndra": 49.5,
+    "Briar": 48.1,
+    "Swain": 45.1
+  },
+  "Elise": {
+    "Soraka": 46.2,
+    "Karthus": 49.2,
+    "Janna": 44.3,
+    "Skarner": 47.3,
+    "Briar": 46.1
+  },
+  "Evelynn": {
+    "Akshan": 45.1,
+    "Yasuo": 44.9,
+    "Amumu": 45.5,
+    "Aatrox": 47.4,
+    "Xayah": 46.8
+  },
+  "Ezreal": {
+    "Poppy": 44.8,
+    "Wukong": 46.7,
+    "Aurelion Sol": 48.6,
+    "Heimerdinger": 46.6,
+    "Ashe": 47.0
+  },
+  "Fiddlesticks": {
+    "Neeko": 45.3,
+    "Nami": 47.1,
+    "Vladimir": 49.1,
+    "Nasus": 48.7,
+    "Galio": 49.3
+  },
+  "Fiora": {
+    "Swain": 46.6,
+    "Rammus": 47.5,
+    "Gwen": 46.8,
+    "Skarner": 44.7,
+    "Heimerdinger": 48.2
+  },
+  "Fizz": {
+    "Nami": 44.1,
+    "Hecarim": 44.4,
+    "Annie": 44.2,
+    "Graves": 45.5,
+    "Kled": 44.1
+  },
+  "Galio": {
+    "Soraka": 49.1,
+    "Zoe": 49.0,
+    "Evelynn": 44.5,
+    "Elise": 47.0,
+    "Sylas": 49.4
+  },
+  "Gangplank": {
+    "Morgana": 46.5,
+    "Wukong": 44.2,
+    "Lissandra": 49.6,
+    "Corki": 49.2,
+    "Aatrox": 47.8
+  },
+  "Garen": {
+    "Kayle": 46.2,
+    "Gragas": 44.4,
+    "Taliyah": 47.6,
+    "Jhin": 46.1,
+    "Kalista": 48.3
+  },
+  "Gnar": {
+    "Nilah": 46.6,
+    "Talon": 49.5,
+    "Warwick": 47.9,
+    "Aatrox": 45.6,
+    "Olaf": 49.3
+  },
+  "Gragas": {
+    "Teemo": 45.8,
+    "Mordekaiser": 49.7,
+    "Pantheon": 46.5,
+    "Nautilus": 48.7,
+    "Ekko": 46.3
+  },
+  "Graves": {
+    "Ivern": 49.6,
+    "Jayce": 47.5,
+    "Dr. Mundo": 46.6,
+    "Jhin": 44.5,
+    "Viego": 45.1
+  },
+  "Gwen": {
+    "Aatrox": 44.1,
+    "Olaf": 49.0,
+    "Rek'Sai": 46.1,
+    "Ryze": 46.9,
+    "Volibear": 48.8
+  },
+  "Hecarim": {
+    "Olaf": 49.7,
+    "Morgana": 46.6,
+    "Poppy": 48.3,
+    "Bel'Veth": 47.4,
+    "Rumble": 46.5
+  },
+  "Heimerdinger": {
+    "Swain": 48.5,
+    "Kassadin": 47.5,
+    "Xerath": 49.7,
+    "Lux": 48.6,
+    "Volibear": 46.4
+  },
+  "Illaoi": {
+    "Diana": 48.5,
+    "Garen": 45.4,
+    "Lulu": 46.3,
+    "Neeko": 48.2,
+    "Evelynn": 44.6
+  },
+  "Irelia": {
+    "Vel'Koz": 44.3,
+    "Warwick": 49.4,
+    "Sejuani": 45.3,
+    "Jinx": 44.5,
+    "Sylas": 49.8
+  },
+  "Ivern": {
+    "Vi": 46.0,
+    "Tahm Kench": 46.8,
+    "Graves": 48.9,
+    "Fiora": 45.9,
+    "Ziggs": 47.6
+  },
+  "Janna": {
+    "Xerath": 47.3,
+    "Pyke": 45.4,
+    "Skarner": 46.0,
+    "Yone": 49.7,
+    "Ezreal": 44.3
+  },
+  "Jarvan IV": {
+    "Heimerdinger": 48.5,
+    "Ziggs": 49.6,
+    "Senna": 49.7,
+    "Milio": 48.3,
+    "Camille": 45.7
+  },
+  "Jax": {
+    "Sylas": 48.6,
+    "Varus": 46.5,
+    "Xin Zhao": 44.4,
+    "Vi": 46.9,
+    "Zed": 44.1
+  },
+  "Jayce": {
+    "Draven": 45.0,
+    "Thresh": 49.1,
+    "Kled": 48.3,
+    "Master Yi": 48.1,
+    "K'Sante": 44.8
+  },
+  "Jhin": {
+    "Aphelios": 47.3,
+    "Kled": 44.9,
+    "Ahri": 47.0,
+    "Briar": 47.8,
+    "Lulu": 47.4
+  },
+  "Jinx": {
+    "Naafiri": 45.8,
+    "Rakan": 48.2,
+    "Kog'Maw": 48.5,
+    "Zilean": 48.0,
+    "Renata Glasc": 46.9
+  },
+  "K'Sante": {
+    "Nocturne": 47.2,
+    "Viego": 46.4,
+    "Amumu": 44.2,
+    "Ahri": 44.4,
+    "Malphite": 47.4
+  },
+  "Kai'Sa": {
+    "Miss Fortune": 44.2,
+    "Taliyah": 45.1,
+    "Tryndamere": 44.9,
+    "Zoe": 45.4,
+    "Samira": 47.9
+  },
+  "Kalista": {
+    "Briar": 47.4,
+    "Olaf": 45.8,
+    "Brand": 45.3,
+    "Illaoi": 47.4,
+    "Thresh": 47.5
+  },
+  "Karma": {
+    "Kayle": 49.5,
+    "Alistar": 49.6,
+    "Rumble": 46.8,
+    "Kai'Sa": 49.2,
+    "Annie": 48.4
+  },
+  "Karthus": {
+    "Aphelios": 46.3,
+    "Trundle": 46.7,
+    "Jarvan IV": 44.8,
+    "Garen": 45.3,
+    "Jinx": 45.2
+  },
+  "Kassadin": {
+    "Evelynn": 46.1,
+    "Bel'Veth": 45.9,
+    "Soraka": 46.5,
+    "Kled": 48.1,
+    "Rakan": 46.3
+  },
+  "Katarina": {
+    "Kassadin": 45.9,
+    "Graves": 49.0,
+    "Lulu": 48.6,
+    "Zoe": 44.7,
+    "Singed": 45.5
+  },
+  "Kayle": {
+    "Akshan": 45.2,
+    "Bard": 47.9,
+    "Vex": 48.0,
+    "Nocturne": 45.0,
+    "Talon": 46.6
+  },
+  "Kayn": {
+    "Aatrox": 45.6,
+    "Draven": 48.1,
+    "Fizz": 47.4,
+    "Milio": 49.4,
+    "Kayle": 44.8
+  },
+  "Kennen": {
+    "Lee Sin": 47.9,
+    "Gragas": 46.3,
+    "Zilean": 48.7,
+    "Heimerdinger": 45.3,
+    "Kassadin": 47.2
+  },
+  "Kha'Zix": {
+    "Fiora": 49.0,
+    "Darius": 46.3,
+    "Lee Sin": 47.8,
+    "Varus": 49.4,
+    "Ornn": 48.8
+  },
+  "Kindred": {
+    "Leona": 44.2,
+    "Azir": 47.3,
+    "Ashe": 48.2,
+    "Katarina": 49.8,
+    "Nidalee": 46.3
+  },
+  "Kled": {
+    "Nautilus": 48.5,
+    "Caitlyn": 46.6,
+    "Pyke": 45.1,
+    "Renekton": 45.3,
+    "Amumu": 45.8
+  },
+  "Kog'Maw": {
+    "Azir": 45.4,
+    "Ryze": 48.0,
+    "Maokai": 45.3,
+    "Taliyah": 44.0,
+    "Wukong": 44.4
+  },
+  "LeBlanc": {
+    "Master Yi": 46.1,
+    "Akali": 48.1,
+    "Lee Sin": 47.4,
+    "Lissandra": 47.8,
+    "Blitzcrank": 49.6
+  },
+  "Lee Sin": {
+    "Dr. Mundo": 45.2,
+    "Neeko": 48.0,
+    "Ziggs": 45.2,
+    "Warwick": 45.3,
+    "Xin Zhao": 44.9
+  },
+  "Leona": {
+    "Kayle": 47.0,
+    "Rumble": 47.9,
+    "Karma": 47.2,
+    "Kai'Sa": 48.9,
+    "Naafiri": 44.3
+  },
+  "Lillia": {
+    "Sylas": 44.8,
+    "Zoe": 47.9,
+    "Alistar": 44.1,
+    "Gnar": 48.9,
+    "Kayn": 44.3
+  },
+  "Lissandra": {
+    "Nilah": 46.8,
+    "Twisted Fate": 48.3,
+    "Alistar": 44.4,
+    "LeBlanc": 46.0,
+    "Elise": 48.7
+  },
+  "Lucian": {
+    "Azir": 47.2,
+    "Nami": 48.4,
+    "Anivia": 48.6,
+    "Vex": 47.7,
+    "Amumu": 44.4
+  },
+  "Lulu": {
+    "Jinx": 49.1,
+    "Ornn": 49.1,
+    "Yuumi": 47.1,
+    "Xerath": 46.9,
+    "Seraphine": 46.2
+  },
+  "Lux": {
+    "Kassadin": 48.9,
+    "Warwick": 46.8,
+    "Nocturne": 47.8,
+    "Naafiri": 49.5,
+    "Heimerdinger": 49.7
+  },
+  "Malphite": {
+    "Graves": 46.3,
+    "Nami": 44.1,
+    "Blitzcrank": 44.4,
+    "Taric": 49.7,
+    "Kennen": 47.5
+  },
+  "Malzahar": {
+    "Tristana": 48.7,
+    "Yone": 46.6,
+    "Dr. Mundo": 49.2,
+    "Annie": 44.9,
+    "Braum": 49.8
+  },
+  "Maokai": {
+    "Renekton": 46.0,
+    "Sett": 49.6,
+    "Ashe": 47.6,
+    "Lux": 45.6,
+    "Darius": 45.8
+  },
+  "Master Yi": {
+    "Renata Glasc": 46.6,
+    "Thresh": 45.7,
+    "Blitzcrank": 44.3,
+    "Katarina": 46.7,
+    "Vex": 46.5
+  },
+  "Milio": {
+    "Tristana": 44.7,
+    "Gnar": 45.6,
+    "Camille": 45.4,
+    "Nami": 49.2,
+    "Graves": 47.1
+  },
+  "Miss Fortune": {
+    "Kai'Sa": 46.3,
+    "Caitlyn": 45.7,
+    "Qiyana": 47.8,
+    "Rell": 47.2,
+    "Jax": 48.1
+  },
+  "Mordekaiser": {
+    "Amumu": 44.4,
+    "Annie": 48.2,
+    "Gnar": 46.9,
+    "Graves": 48.2,
+    "Urgot": 48.5
+  },
+  "Morgana": {
+    "Tahm Kench": 46.1,
+    "Jinx": 49.3,
+    "Cho'Gath": 46.6,
+    "Zoe": 45.5,
+    "Vel'Koz": 47.1
+  },
+  "Naafiri": {
+    "Sona": 47.7,
+    "Thresh": 49.5,
+    "Pyke": 44.6,
+    "Bard": 47.2,
+    "Gangplank": 49.3
+  },
+  "Nami": {
+    "Jarvan IV": 45.7,
+    "Shen": 45.3,
+    "Irelia": 45.7,
+    "Garen": 44.5,
+    "Elise": 44.4
+  },
+  "Nasus": {
+    "Poppy": 45.1,
+    "Amumu": 49.8,
+    "Illaoi": 44.1,
+    "Lulu": 44.7,
+    "Fiddlesticks": 46.4
+  },
+  "Nautilus": {
+    "Nocturne": 48.4,
+    "Orianna": 44.1,
+    "Fiora": 45.0,
+    "Kog'Maw": 46.6,
+    "Ryze": 46.4
+  },
+  "Neeko": {
+    "Syndra": 44.6,
+    "Renekton": 44.0,
+    "Nami": 44.4,
+    "Aurelion Sol": 45.3,
+    "Vel'Koz": 44.0
+  },
+  "Nidalee": {
+    "Tahm Kench": 46.1,
+    "Tryndamere": 45.3,
+    "Tristana": 44.6,
+    "Nunu & Willump": 49.5,
+    "Kha'Zix": 48.3
+  },
+  "Nilah": {
+    "Thresh": 47.8,
+    "Teemo": 45.0,
+    "Renata Glasc": 47.7,
+    "Shen": 45.1,
+    "Twisted Fate": 47.7
+  },
+  "Nocturne": {
+    "Riven": 48.2,
+    "Lillia": 46.8,
+    "Seraphine": 48.2,
+    "Lux": 48.5,
+    "Nilah": 45.7
+  },
+  "Nunu & Willump": {
+    "Sivir": 47.1,
+    "Blitzcrank": 48.1,
+    "Aatrox": 46.7,
+    "Taric": 49.8,
+    "Kog'Maw": 45.9
+  },
+  "Olaf": {
+    "Graves": 45.9,
+    "Renata Glasc": 46.5,
+    "Yorick": 45.4,
+    "Wukong": 48.1,
+    "Galio": 49.1
+  },
+  "Orianna": {
+    "LeBlanc": 46.6,
+    "Udyr": 44.3,
+    "Smolder": 48.2,
+    "Dr. Mundo": 49.2,
+    "Syndra": 46.6
+  },
+  "Ornn": {
+    "Smolder": 47.8,
+    "Orianna": 44.5,
+    "Volibear": 44.0,
+    "Miss Fortune": 44.8,
+    "Karthus": 46.3
+  },
+  "Pantheon": {
+    "Lee Sin": 46.8,
+    "Nilah": 49.3,
+    "Briar": 47.1,
+    "Amumu": 47.2,
+    "Karma": 45.0
+  },
+  "Poppy": {
+    "Rek'Sai": 48.3,
+    "Alistar": 46.4,
+    "Akshan": 48.1,
+    "Taric": 44.3,
+    "Kog'Maw": 48.3
+  },
+  "Pyke": {
+    "Yone": 44.4,
+    "Cho'Gath": 47.5,
+    "Morgana": 46.5,
+    "Hecarim": 47.9,
+    "Diana": 47.0
+  },
+  "Qiyana": {
+    "Sion": 46.0,
+    "Diana": 47.6,
+    "Zyra": 45.6,
+    "Jinx": 44.9,
+    "Maokai": 45.3
+  },
+  "Quinn": {
+    "K'Sante": 48.4,
+    "Pyke": 45.6,
+    "Vex": 45.0,
+    "Ornn": 49.8,
+    "Lucian": 46.6
+  },
+  "Rakan": {
+    "Maokai": 47.1,
+    "Quinn": 46.4,
+    "Ornn": 45.6,
+    "Xin Zhao": 45.3,
+    "Skarner": 45.6
+  },
+  "Rammus": {
+    "Gnar": 45.5,
+    "Sona": 47.6,
+    "Pyke": 45.6,
+    "Thresh": 45.2,
+    "Bard": 48.4
+  },
+  "Rek'Sai": {
+    "Galio": 44.5,
+    "Kog'Maw": 49.2,
+    "Sett": 47.6,
+    "Neeko": 46.4,
+    "Master Yi": 47.6
+  },
+  "Rell": {
+    "Renata Glasc": 45.9,
+    "Nami": 44.7,
+    "Veigar": 44.2,
+    "Amumu": 48.3,
+    "Smolder": 45.9
+  },
+  "Renata Glasc": {
+    "Jinx": 47.5,
+    "Yasuo": 44.6,
+    "Sejuani": 46.5,
+    "Taliyah": 47.6,
+    "Skarner": 46.3
+  },
+  "Renekton": {
+    "Riven": 48.8,
+    "Illaoi": 47.2,
+    "Pantheon": 44.6,
+    "Zoe": 44.6,
+    "Rammus": 44.2
+  },
+  "Rengar": {
+    "Akali": 47.0,
+    "Zilean": 49.4,
+    "Karthus": 47.2,
+    "Qiyana": 46.2,
+    "Zac": 48.5
+  },
+  "Riven": {
+    "Renata Glasc": 46.9,
+    "Amumu": 48.2,
+    "Katarina": 48.3,
+    "Blitzcrank": 47.9,
+    "Braum": 44.7
+  },
+  "Rumble": {
+    "Rell": 49.6,
+    "Ezreal": 44.1,
+    "Vi": 47.4,
+    "Malzahar": 49.1,
+    "Heimerdinger": 45.9
+  },
+  "Ryze": {
+    "Yone": 49.7,
+    "Draven": 44.0,
+    "Blitzcrank": 44.7,
+    "Zeri": 46.0,
+    "Anivia": 45.0
+  },
+  "Samira": {
+    "Swain": 45.5,
+    "Sion": 47.9,
+    "Twitch": 49.4,
+    "Smolder": 46.3,
+    "Akali": 44.2
+  },
+  "Sejuani": {
+    "Kai'Sa": 45.3,
+    "Nautilus": 48.3,
+    "Rengar": 44.9,
+    "Darius": 45.5,
+    "Zyra": 47.2
+  },
+  "Senna": {
+    "Kennen": 46.6,
+    "Rammus": 44.7,
+    "Shyvana": 44.9,
+    "Zilean": 46.7,
+    "Kai'Sa": 44.1
+  },
+  "Seraphine": {
+    "Yorick": 48.8,
+    "Hecarim": 46.0,
+    "Jarvan IV": 44.1,
+    "Nami": 45.8,
+    "Kai'Sa": 48.1
+  },
+  "Sett": {
+    "Braum": 44.8,
+    "Fiddlesticks": 45.0,
+    "Kindred": 44.7,
+    "Zilean": 48.8,
+    "Brand": 48.3
+  },
+  "Shaco": {
+    "Sejuani": 48.2,
+    "Garen": 46.8,
+    "Jinx": 46.0,
+    "Evelynn": 48.2,
+    "Jax": 48.2
+  },
+  "Shen": {
+    "Nunu & Willump": 48.3,
+    "Viego": 47.3,
+    "Mordekaiser": 45.6,
+    "Kled": 46.3,
+    "Jarvan IV": 48.0
+  },
+  "Shyvana": {
+    "Cho'Gath": 44.0,
+    "Jinx": 47.4,
+    "Heimerdinger": 47.1,
+    "Seraphine": 47.4,
+    "Xerath": 45.8
+  },
+  "Singed": {
+    "Caitlyn": 45.2,
+    "Olaf": 49.7,
+    "Lee Sin": 44.1,
+    "Twisted Fate": 47.6,
+    "Zeri": 48.5
+  },
+  "Sion": {
+    "Yasuo": 44.5,
+    "Briar": 47.6,
+    "Kog'Maw": 49.0,
+    "Miss Fortune": 45.3,
+    "Rek'Sai": 49.7
+  },
+  "Sivir": {
+    "Zeri": 44.3,
+    "Pantheon": 48.6,
+    "Kindred": 48.3,
+    "Volibear": 49.4,
+    "Naafiri": 46.4
+  },
+  "Skarner": {
+    "Brand": 49.6,
+    "Volibear": 46.8,
+    "Yone": 46.6,
+    "Evelynn": 47.6,
+    "Bel'Veth": 49.8
+  },
+  "Smolder": {
+    "Renata Glasc": 45.0,
+    "Azir": 47.6,
+    "Nasus": 49.5,
+    "Camille": 47.5,
+    "Seraphine": 44.1
+  },
+  "Sona": {
+    "Shen": 48.6,
+    "Taric": 45.5,
+    "Talon": 49.8,
+    "Ezreal": 44.2,
+    "Rell": 47.8
+  },
+  "Soraka": {
+    "Janna": 44.4,
+    "Singed": 44.9,
+    "Kai'Sa": 45.1,
+    "Sejuani": 48.8,
+    "Anivia": 48.5
+  },
+  "Swain": {
+    "Ziggs": 46.8,
+    "Viego": 49.0,
+    "Aatrox": 49.5,
+    "Annie": 44.3,
+    "Shaco": 48.4
+  },
+  "Sylas": {
+    "Shen": 44.9,
+    "Sett": 48.5,
+    "Mordekaiser": 48.5,
+    "Ashe": 47.3,
+    "Varus": 48.5
+  },
+  "Syndra": {
+    "Pyke": 46.6,
+    "Varus": 48.1,
+    "Nautilus": 49.5,
+    "Vex": 45.1,
+    "Samira": 44.9
+  },
+  "Tahm Kench": {
+    "Quinn": 46.4,
+    "Warwick": 48.8,
+    "Alistar": 49.5,
+    "Master Yi": 46.8,
+    "Illaoi": 45.7
+  },
+  "Taliyah": {
+    "Gragas": 47.1,
+    "Dr. Mundo": 47.2,
+    "Naafiri": 46.5,
+    "Rell": 49.8,
+    "Volibear": 47.8
+  },
+  "Talon": {
+    "Corki": 46.5,
+    "Galio": 45.3,
+    "Lillia": 44.9,
+    "Aurelion Sol": 48.4,
+    "Karma": 49.4
+  },
+  "Taric": {
+    "Kha'Zix": 49.2,
+    "Rakan": 44.9,
+    "Yone": 47.8,
+    "Swain": 47.0,
+    "Taliyah": 48.5
+  },
+  "Teemo": {
+    "Seraphine": 49.5,
+    "Kha'Zix": 47.5,
+    "Vel'Koz": 46.3,
+    "K'Sante": 48.1,
+    "Jarvan IV": 47.6
+  },
+  "Thresh": {
+    "Gragas": 45.9,
+    "Vayne": 48.1,
+    "Viktor": 44.9,
+    "Tristana": 48.3,
+    "Irelia": 48.8
+  },
+  "Tristana": {
+    "Sett": 47.3,
+    "Nasus": 47.4,
+    "Bel'Veth": 44.9,
+    "Zilean": 46.2,
+    "Lee Sin": 44.1
+  },
+  "Trundle": {
+    "Corki": 44.7,
+    "Maokai": 44.5,
+    "Taric": 45.7,
+    "Fiddlesticks": 47.3,
+    "Galio": 49.5
+  },
+  "Tryndamere": {
+    "Lux": 47.5,
+    "Zeri": 48.6,
+    "Talon": 45.2,
+    "Bel'Veth": 45.1,
+    "Bard": 45.2
+  },
+  "Twisted Fate": {
+    "Ashe": 45.6,
+    "Olaf": 46.7,
+    "Syndra": 48.1,
+    "Aatrox": 47.4,
+    "Janna": 48.2
+  },
+  "Twitch": {
+    "Galio": 44.0,
+    "Kalista": 46.2,
+    "Master Yi": 47.2,
+    "Nami": 46.1,
+    "Bel'Veth": 44.6
+  },
+  "Udyr": {
+    "Lulu": 45.3,
+    "Gnar": 46.5,
+    "Draven": 45.2,
+    "Karma": 48.9,
+    "Wukong": 45.5
+  },
+  "Urgot": {
+    "Sylas": 45.9,
+    "Ahri": 45.5,
+    "Anivia": 48.3,
+    "Zilean": 48.4,
+    "Malphite": 46.3
+  },
+  "Varus": {
+    "Sejuani": 45.1,
+    "Aurelion Sol": 48.7,
+    "Teemo": 48.9,
+    "Kindred": 46.2,
+    "Anivia": 49.0
+  },
+  "Vayne": {
+    "Camille": 45.7,
+    "Shyvana": 46.5,
+    "Aphelios": 48.2,
+    "Thresh": 48.3,
+    "Qiyana": 46.2
+  },
+  "Veigar": {
+    "Cassiopeia": 48.5,
+    "LeBlanc": 48.7,
+    "Vayne": 45.3,
+    "Riven": 47.5,
+    "Akshan": 46.1
+  },
+  "Vel'Koz": {
+    "Vladimir": 44.5,
+    "Sion": 48.4,
+    "Jhin": 44.5,
+    "Jax": 49.1,
+    "LeBlanc": 48.2
+  },
+  "Vex": {
+    "Hecarim": 49.7,
+    "Nilah": 46.1,
+    "Fizz": 44.8,
+    "Azir": 46.0,
+    "Yuumi": 47.6
+  },
+  "Vi": {
+    "Vladimir": 44.4,
+    "Jax": 49.7,
+    "Jarvan IV": 45.4,
+    "Gragas": 48.5,
+    "Yasuo": 45.6
+  },
+  "Viego": {
+    "Master Yi": 47.4,
+    "Leona": 44.2,
+    "Zed": 48.5,
+    "Shaco": 48.7,
+    "Syndra": 48.3
+  },
+  "Viktor": {
+    "Renata Glasc": 45.2,
+    "Varus": 48.5,
+    "Samira": 45.5,
+    "Seraphine": 47.0,
+    "Aurelion Sol": 47.7
+  },
+  "Vladimir": {
+    "Pyke": 46.5,
+    "Malzahar": 44.4,
+    "Rumble": 46.2,
+    "Maokai": 49.7,
+    "Brand": 46.6
+  },
+  "Volibear": {
+    "Akshan": 49.0,
+    "Seraphine": 46.6,
+    "Vladimir": 45.3,
+    "Kindred": 49.2,
+    "Renata Glasc": 49.0
+  },
+  "Warwick": {
+    "Fiddlesticks": 44.6,
+    "Elise": 46.4,
+    "Talon": 45.6,
+    "Zed": 44.7,
+    "Neeko": 49.6
+  },
+  "Wukong": {
+    "Sejuani": 48.2,
+    "Kalista": 49.5,
+    "Gnar": 44.9,
+    "Tryndamere": 44.6,
+    "Taric": 46.3
+  },
+  "Xayah": {
+    "Pyke": 44.3,
+    "Akali": 44.7,
+    "Zyra": 47.5,
+    "Mordekaiser": 45.8,
+    "Wukong": 45.6
+  },
+  "Xerath": {
+    "Nasus": 48.7,
+    "Soraka": 45.9,
+    "Vladimir": 48.9,
+    "Bard": 46.8,
+    "Ekko": 46.8
+  },
+  "Xin Zhao": {
+    "Nautilus": 47.4,
+    "Hecarim": 46.8,
+    "Skarner": 48.9,
+    "Tryndamere": 45.0,
+    "Shyvana": 45.7
+  },
+  "Yasuo": {
+    "Lucian": 48.8,
+    "Hecarim": 49.5,
+    "Irelia": 48.4,
+    "Jhin": 49.1,
+    "Akshan": 48.4
+  },
+  "Yone": {
+    "Vladimir": 48.1,
+    "LeBlanc": 48.4,
+    "Rammus": 44.9,
+    "Zac": 45.5,
+    "Bel'Veth": 44.0
+  },
+  "Yorick": {
+    "Amumu": 48.2,
+    "Leona": 49.4,
+    "Ahri": 47.9,
+    "Aurelion Sol": 45.1,
+    "Riven": 49.7
+  },
+  "Yuumi": {
+    "Nautilus": 47.0,
+    "Kindred": 47.8,
+    "Fiddlesticks": 46.7,
+    "Lillia": 44.0,
+    "Jax": 45.7
+  },
+  "Zac": {
+    "Azir": 45.5,
+    "Poppy": 47.0,
+    "Nunu & Willump": 47.4,
+    "Lillia": 49.7,
+    "Riven": 48.9
+  },
+  "Zed": {
+    "Zac": 49.5,
+    "Lulu": 47.0,
+    "Ornn": 48.1,
+    "Zilean": 46.9,
+    "Trundle": 45.4
+  },
+  "Zeri": {
+    "Jhin": 48.0,
+    "Lissandra": 47.5,
+    "Kai'Sa": 47.7,
+    "Ryze": 46.2,
+    "Braum": 48.9
+  },
+  "Ziggs": {
+    "Rengar": 44.4,
+    "Gnar": 47.7,
+    "Riven": 49.3,
+    "Bard": 46.7,
+    "Sejuani": 47.9
+  },
+  "Zilean": {
+    "Kha'Zix": 48.4,
+    "Pyke": 48.3,
+    "Singed": 46.6,
+    "Karthus": 46.4,
+    "Ornn": 49.6
+  },
+  "Zoe": {
+    "Xayah": 45.9,
+    "Renekton": 47.0,
+    "Leona": 46.7,
+    "Syndra": 45.1,
+    "Irelia": 48.2
+  },
+  "Zyra": {
+    "Volibear": 44.3,
+    "Jhin": 44.6,
+    "Renekton": 47.3,
+    "Lissandra": 48.3,
+    "Brand": 45.7
+  }
+}

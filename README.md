@@ -1,10 +1,10 @@
-League of Legends Counter Pick Recommendation Engine
+# League of Legends Counter Pick Recommendation Engine
 
 A Python CLI tool that recommends optimal champion picks based on enemy team composition using a generated matchup dataset and a scoring system.
 
 ------------------------------------------------------------
 
-PROJECT OVERVIEW
+## PROJECT OVERVIEW
 
 This project simulates a simplified recommendation system similar to tools like u.gg.
 
@@ -18,7 +18,7 @@ The goal is to demonstrate:
 
 ------------------------------------------------------------
 
-HOW IT WORKS
+## HOW IT WORKS
 
 1. Load champion list from champions.json
 2. Generate matchup dataset (counters.json)
@@ -28,7 +28,7 @@ HOW IT WORKS
 
     advantage score = 50 - winrate
 
-WHY THIS WORKS:
+## WHY THIS WORKS:
 - 50% winrate = even matchup
 - Below 50% = enemy is stronger (positive counter value)
 - Above 50% = favorable matchup
@@ -37,7 +37,7 @@ This allows the system to consistently rank champion effectiveness against an en
 
 ------------------------------------------------------------
 
-SCORING SYSTEM
+## SCORING SYSTEM
 
 For each enemy champion:
 - Retrieve all counter matchups
@@ -49,7 +49,7 @@ Final result:
 
 ------------------------------------------------------------
 
-FEATURES
+## FEATURES
 
 - CLI-based user input system
 - JSON-based dataset storage
@@ -60,7 +60,7 @@ FEATURES
 
 ------------------------------------------------------------
 
-SETUP
+## SETUP
 
 1. Generate dataset:
    python random_wr_generator.py
@@ -70,7 +70,7 @@ SETUP
 
 ------------------------------------------------------------
 
-EXAMPLE OUTPUT
+## EXAMPLE OUTPUT
 
 Enemy team: Ahri, Zed, Jinx
 
@@ -81,7 +81,7 @@ Top 3 picks:
 
 ------------------------------------------------------------
 
-TECH STACK
+## TECH STACK
 
 - Python 3
 - JSON for data storage
@@ -89,7 +89,7 @@ TECH STACK
 
 ------------------------------------------------------------
 
-FUTURE IMPROVEMENTS
+## FUTURE IMPROVEMENTS
 
 - Integration with Riot Games API for real matchup data
 - Role-based filtering (top, jungle, mid, etc.)
@@ -100,7 +100,7 @@ FUTURE IMPROVEMENTS
 
 ------------------------------------------------------------
 
-PURPOSE
+## PURPOSE
 
 This project demonstrates:
 - algorithm design
@@ -111,6 +111,6 @@ This project demonstrates:
 
 ------------------------------------------------------------
 
-NOTES
+## NOTES
 
 This project uses a procedurally generated dataset to simulate matchup winrates. It is structured to be easily replaced with real-world data sources in the future.
